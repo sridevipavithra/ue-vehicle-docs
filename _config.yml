@@ -1,0 +1,15 @@
+title: Vehicle Amphibious for Unreal Engine
+description: Documentation for the Vehicle Amphibious plugin
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+exclude:
+  - sync-docs.ps1
+  - README.md

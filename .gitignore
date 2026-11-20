@@ -1,0 +1,17 @@
+# Jekyll output and caches (only created when previewing the site locally)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+vendor/
+.bundle/
+
+# The C++ references ship with the plugins only; never publish them here
+*-CPP.md
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
